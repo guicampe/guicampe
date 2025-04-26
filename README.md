@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @guicampe
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me https://www.linkedin.com/in/guilhermeramoscampestrini/ | gramoscampestrini@gmail.com
